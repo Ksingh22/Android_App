@@ -9,7 +9,7 @@ Feature: Payment with store credit feature
     When I press the menu key
     Then I press on "Settings"
     Then I press on sign in link "Sign in"
-    Then I enter my Email address as "androidfix3.2@gmail.com" and password as "manoobilli"
+    Then I enter my Email address as "com" and password as ""
     Then I click on sign in button
     Then I should be able to click on deal
     Then I should be able to select the deal option or go to checkout page
